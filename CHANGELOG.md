@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/fredofm/node_library_example/compare/v1.0.0...v1.0.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* **Publish NPM:** Set public access when publishing to NPM ([e602987](https://github.com/fredofm/node_library_example/commit/e60298772bfda96c05fa5b91821010826065f72a))
+
 # 1.0.0 (2023-08-17)
 
 
