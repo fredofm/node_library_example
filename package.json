@@ -1,6 +1,6 @@
 {
   "name": "fredo-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Fredo shared utils package",
   "main": "./src/main.js",
   "scripts": {
@@ -23,5 +23,4 @@
   "publishConfig": {
     "access": "public"
   }
-  
 }

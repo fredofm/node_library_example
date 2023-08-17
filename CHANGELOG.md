@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/fredofm/node_library_example/compare/v1.0.1...v1.0.2) (2023-08-17)
+
+
+### Bug Fixes
+
+* **anything:** Test a PATCH release is created ([17c3ae6](https://github.com/fredofm/node_library_example/commit/17c3ae60e95d6f1e2fc54727958b4834a568b989))
+
 ## [1.0.1](https://github.com/fredofm/node_library_example/compare/v1.0.0...v1.0.1) (2023-08-17)
 
 
