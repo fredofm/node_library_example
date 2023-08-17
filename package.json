@@ -1,7 +1,7 @@
 {
-  "name": "@dxc-technology/csam-utils",
+  "name": "@fredo/utils",
   "version": "0.0.1",
-  "description": "CSAM shared utils package",
+  "description": "Fredo shared utils package",
   "main": "./src/main.js",
   "scripts": {
     "test": "jest"
