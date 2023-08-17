@@ -1,5 +1,5 @@
 {
-  "name": "@fredo/utils",
+  "name": "fredo-utils",
   "version": "1.0.0",
   "description": "Fredo shared utils package",
   "main": "./src/main.js",
