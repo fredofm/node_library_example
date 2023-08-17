@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/fredofm/node_library_example/compare/v1.0.2...v1.0.3) (2023-08-17)
+
+
+### Bug Fixes
+
+* **CI:** Rename pacakge name to scope [@csamorg](https://github.com/csamorg) ([a67b1a8](https://github.com/fredofm/node_library_example/commit/a67b1a8ad2770b522da7ffc09d684eac0e19db07))
+
 ## [1.0.2](https://github.com/fredofm/node_library_example/compare/v1.0.1...v1.0.2) (2023-08-17)
 
 
