@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/fredofm/node_library_example/compare/v1.2.0...v2.0.0) (2023-09-29)
+
+
+### Features
+
+* 💥 Testing breaking changes ([256a479](https://github.com/fredofm/node_library_example/commit/256a479a8da5a7102d34cffa65ea512d1d205984))
+
+
+### BREAKING CHANGES
+
+* Changes that are not backward compatible.
+
+Change description
+
+Change description
+
 # [1.2.0](https://github.com/fredofm/node_library_example/compare/v1.1.0...v1.2.0) (2023-09-29)
 
 
