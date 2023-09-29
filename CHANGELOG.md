@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/fredofm/node_library_example/compare/v1.0.3...v1.1.0) (2023-09-29)
+
+
+### Features
+
+* 📝 Test release creation minor version ([4c44828](https://github.com/fredofm/node_library_example/commit/4c44828d6fc394d041f3915092facdc3f981edad))
+
 ## [1.0.3](https://github.com/fredofm/node_library_example/compare/v1.0.2...v1.0.3) (2023-08-17)
 
 
