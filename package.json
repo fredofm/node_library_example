@@ -1,6 +1,6 @@
 {
   "name": "@csamorg/utils",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Fredo shared utils package",
   "main": "./src/main.js",
   "scripts": {
